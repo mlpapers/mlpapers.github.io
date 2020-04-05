@@ -7,6 +7,7 @@
 * [Models](https://mlpapers.github.io/models/)
 * [Neural networks](https://mlpapers.github.io/neural-nets/)
 * [Reinforcement learning](https://mlpapers.github.io/reinforcement-learning/)
+* [Ensemble learning](https://mlpapers.github.io/ensemble-learning/)
 * [Optimization](https://mlpapers.github.io/optimization/)
 * [AutoML](https://mlpapers.github.io/automl/)
 * [Interpretability](https://mlpapers.github.io/interpretability/)
