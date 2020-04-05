@@ -1,2 +1,12 @@
 # Machine learning papers
-[Feature selection](/feature-selection)
+* [Feature selection](https://mlpapers.github.io/feature-selection/)
+* [Feature extraction](https://mlpapers.github.io/feature-extraction/)
+* [Bayesian networks](https://mlpapers.github.io/bayesian-nets/)
+* [Bayesian inference](https://mlpapers.github.io/bayesian-inference/)
+* [Causal inference](https://mlpapers.github.io/causal-inference/)
+* [Models](https://mlpapers.github.io/models/)
+* [Neural networks](https://mlpapers.github.io/neural-nets/)
+* [Reinforcement learning](https://mlpapers.github.io/reinforcement-learning/)
+* [Optimization](https://mlpapers.github.io/optimization/)
+* [AutoML](https://mlpapers.github.io/automl/)
+* [Interpretability](https://mlpapers.github.io/interpretability/)
