@@ -1,2 +1,2 @@
-# mlpapers.github.io
-Machine learning papers (landing page)
+# Machine learning papers
+[Feature selection](/feature-selection)
