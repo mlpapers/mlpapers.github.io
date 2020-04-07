@@ -1,6 +1,6 @@
 # Machine learning papers
-* [Feature selection](https://mlpapers.github.io/feature-selection/)
 * [Feature extraction](https://mlpapers.github.io/feature-extraction/)
+* [Feature selection](https://mlpapers.github.io/feature-selection/)
 * [Bayesian networks](https://mlpapers.github.io/bayesian-nets/)
 * [Bayesian inference](https://mlpapers.github.io/bayesian-inference/)
 * [Causal inference](https://mlpapers.github.io/causal-inference/)
