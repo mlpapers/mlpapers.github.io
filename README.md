@@ -1,5 +1,6 @@
 # Machine learning papers
 
+* [Missing data](https://mlpapers.org/missing-data/)
 * [Feature extraction](https://mlpapers.org/feature-extraction/)
 * [Feature selection](https://mlpapers.org/feature-selection/)
 * [Bayesian networks](https://mlpapers.org/bayesian-nets/)
