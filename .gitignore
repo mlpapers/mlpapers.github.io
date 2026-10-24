@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/README.md
+!/_config.yml
+!/CNAME
+!/assets/
+/assets/*
+!/assets/logo-mark.png

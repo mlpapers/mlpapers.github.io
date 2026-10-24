@@ -1,1 +1,19 @@
-remote_theme: mlpapers/minimal
+remote_theme: jseeio/minima
+logo_header:
+  src: /assets/logo-mark.png
+  text: mlpapers
+  href: /
+  height: 34
+header_pages:
+- null
+minima:
+  social_links:
+    github: mlpapers
+    twitter: mlpapers
+defaults:
+- scope:
+    path: README.md
+  values:
+    layout: page
+title: MLPapers
+description: Machine learning papers and methods.
