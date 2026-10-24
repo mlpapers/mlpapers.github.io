@@ -1,4 +1,8 @@
-# Machine learning papers
+# MLPapers
+
+MLPapers is a collection of regularly updated reviews of machine learning research. Each topic connects methods, papers and implementations, summarizing how methods work, their assumptions, and what later findings extend or challenge.
+
+## Topics
 
 * [Anomaly detection](https://mlpapers.org/anomaly-detection/)
 * [AutoML](https://mlpapers.org/automl/)
