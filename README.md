@@ -4,38 +4,61 @@ MLPapers is a collection of regularly updated reviews of machine learning resear
 
 ## Topics
 
-* [Anomaly detection](https://mlpapers.org/anomaly-detection/)
-* [AutoML](https://mlpapers.org/automl/)
+### Modeling and inference
+
 * [Bayesian inference](https://mlpapers.org/bayesian-inference/)
 * [Bayesian networks](https://mlpapers.org/bayesian-nets/)
 * [Causal inference](https://mlpapers.org/causal-inference/)
-* [Clustering](https://mlpapers.org/clustering/)
-* [Computer vision](https://mlpapers.org/computer-vision/)
-* [Continual learning](https://mlpapers.org/continual-learning/)
-* [Distributed learning](https://mlpapers.org/distributed-learning/)
 * [Ensemble learning](https://mlpapers.org/ensemble-learning/)
-* [Evaluation](https://mlpapers.org/evaluation/)
-* [Feature extraction](https://mlpapers.org/feature-extraction/)
-* [Feature selection](https://mlpapers.org/feature-selection/)
-* [Federated learning](https://mlpapers.org/federated-learning/)
-* [Generalization](https://mlpapers.org/generalization/)
 * [Generative models](https://mlpapers.org/generative-models/)
+* [Modeling](https://mlpapers.org/models/)
+* [Symbolic regression](https://mlpapers.org/symbolic-regression/)
+
+### Networks and representations
+
+* [Feature extraction](https://mlpapers.org/feature-extraction/)
 * [Geometric deep learning](https://mlpapers.org/geometric-deep-learning/)
 * [Graph neural networks](https://mlpapers.org/graph-neural-networks/)
-* [Interpretability](https://mlpapers.org/interpretability/)
-* [Machine unlearning](https://mlpapers.org/machine-unlearning/)
-* [Meta-learning](https://mlpapers.org/meta-learning/)
-* [Missing data](https://mlpapers.org/missing-data/)
-* [Model predictive control](https://mlpapers.org/model-predictive-control/)
-* [Models](https://mlpapers.org/models/)
 * [Multiview learning](https://mlpapers.org/multiview-learning/)
-* [Natural language processing](https://mlpapers.org/nlp/)
 * [Neural networks](https://mlpapers.org/neural-nets/)
 * [Neurosymbolic learning](https://mlpapers.org/neurosymbolic-learning/)
+
+### Data analysis
+
+* [Anomaly detection](https://mlpapers.org/anomaly-detection/)
+* [Clustering](https://mlpapers.org/clustering/)
+* [Feature selection](https://mlpapers.org/feature-selection/)
+* [Missing data](https://mlpapers.org/missing-data/)
+
+### Training and adaptation
+
+* [AutoML](https://mlpapers.org/automl/)
+* [Continual learning](https://mlpapers.org/continual-learning/)
+* [Meta-learning](https://mlpapers.org/meta-learning/)
 * [Optimization](https://mlpapers.org/optimization/)
-* [Privacy-preserving learning](https://mlpapers.org/privacy-preserving-learning/)
-* [Reinforcement learning](https://mlpapers.org/reinforcement-learning/)
-* [Scientific machine learning](https://mlpapers.org/scientific-machine-learning/)
-* [Symbolic regression](https://mlpapers.org/symbolic-regression/)
-* [Time series forecasting](https://mlpapers.org/time-series-forecasting/)
 * [Transfer learning](https://mlpapers.org/transfer-learning/)
+
+### Evaluation and reliability
+
+* [Evaluation](https://mlpapers.org/evaluation/)
+* [Generalization](https://mlpapers.org/generalization/)
+* [Interpretability](https://mlpapers.org/interpretability/)
+
+### Distributed learning and privacy
+
+* [Distributed learning](https://mlpapers.org/distributed-learning/)
+* [Federated learning](https://mlpapers.org/federated-learning/)
+* [Machine unlearning](https://mlpapers.org/machine-unlearning/)
+* [Privacy-preserving learning](https://mlpapers.org/privacy-preserving-learning/)
+
+### Forecasting and control
+
+* [Model predictive control](https://mlpapers.org/model-predictive-control/)
+* [Reinforcement learning](https://mlpapers.org/reinforcement-learning/)
+* [Time series forecasting](https://mlpapers.org/time-series-forecasting/)
+
+### Domains and applications
+
+* [Computer vision](https://mlpapers.org/computer-vision/)
+* [Natural language processing](https://mlpapers.org/nlp/)
+* [Scientific machine learning](https://mlpapers.org/scientific-machine-learning/)
